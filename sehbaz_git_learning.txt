@@ -1,0 +1,22 @@
+Hello, I am Sehbaz Rafik and here are my learnings from the gitaand gitlab
+module.
+
+Git command line
+There are many different ways to use Git. Git supports many command-line tools and graphical user interfaces. The Git command line is the only place where you can run all the Git commands.
+
+
+Basic Git Commands
+Here is a list of most essential Git commands that are used daily.
+
+Git Config command
+Git init command
+Git clone command
+Git add command
+Git commit command
+Git status command
+Git push Command
+Git pull command
+Git Branch Command
+Git Merge Command
+Git log command
+Git remote command
